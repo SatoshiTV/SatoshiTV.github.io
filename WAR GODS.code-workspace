@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../WAR GODS"
+		},
+		{
+			"path": "../../JUEGOS/WAR GODS original"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WAR GODS"
+	}
+}
